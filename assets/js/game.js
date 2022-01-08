@@ -1,9 +1,5 @@
 var playerName = window.prompt("What is your robot's name?");
 var playerHealth = 100;
-// check to see if the value of the playerHealth variable is greater than 0
-if (playerHealth > 0) {
-    console.log("Your player is still alive!");
-}
 var playerAttack = 10;
 var playerMoney = 10;
 // you can also log multiple values at once like this
